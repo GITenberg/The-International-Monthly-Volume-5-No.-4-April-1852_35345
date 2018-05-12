@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35345#The-International-Monthly-Volume-5-No.-4-April-1852
 gutenberg_bookshelf: The International Magazine of Literature, Art, and Science
 gutenberg_issued: '2011-02-21'
 gutenberg_type: Text
